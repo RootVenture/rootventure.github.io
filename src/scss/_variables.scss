@@ -1,0 +1,29 @@
+$primary              : #45bafc;
+$secondary            : #57EEA1;
+$gradient             : linear-gradient(to right, $primary, $secondary);
+
+$dark                 : #1d1e25;
+$medium-dark          : #292C33;
+$medium               : #858787;
+$light                : #bec6d5;
+
+$alternate-background : linear-gradient(to top right, #f6f6f7, #fefefe);
+
+$body-font-family     : 'Roboto', sans-serif;
+$body-font-color      : #2d2d2d;
+$heading-font-family  : 'Roboto', sans-serif;
+
+$border-color         : #ebecec;
+$border-radius        : 6px;
+
+$medium-screen        : 650px;
+$large-screen         : 900px;
+
+$small-container      : 650px;
+$container            : 1050px;
+
+$padding-mobile       : 1rem;
+$padding              : 2rem;
+
+$space-mobile         : 2rem;
+$space                : 4rem;
